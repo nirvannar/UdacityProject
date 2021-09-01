@@ -10,17 +10,12 @@ My first Udacity Project based on CRISP-DM
 
 
 ## Installation <a name="Installation"></a>
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
+The code should run with no issues using Python versions 3.8.8 using Jupyter Notebook server version 6.3.0
 
 ## Project Motivation <a name="Project-Motivation"></a>
-For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
+For this project, I was interestested in using Smithsonian Institution data on Global Volcanism Program - Volcanoes of the World 4.10.1, downloaded on 24 Jul 2021 at 11:16 AM	to better understand characteristcs of Holocene volcanoes for the purpose of Volcano tourism.
 
-How other developers suggested breaking into the field (what education to pursue)?
-What factors about an individual contributed to salary?
-How bias played a role in the suggestions of developers for how to break into the field?
-What was the state of bootcamps for assisting individuals with breaking into developer roles?
-How were bootcamps assisting with increasing diversity in tech careers?
-The full set of files related to this course are owned by Udacity, so they are not publicly available here. However, you can see pieces of the analysis here. This README also serves as a template for students to follow in creating their own project README files.
+
 
 ## File Descriptions  <a name="File-Descriptions"></a>
 There are 3 notebooks available here to showcase work related to the above questions. Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
@@ -28,7 +23,19 @@ There are 3 notebooks available here to showcase work related to the above quest
 There is an additional .py file that runs the necessary code to obtain the final model used to predict salary.
 
 ## Results <a name="Results"></a>
-The main findings of the code can be found at the post available here.
+
+**_The following questions were answered from the data._**
+*How other developers suggested breaking into the field (what education to pursue)?
+Which is the highest Volcano in the world?
+Which country has the most volcanoes?
+What are the most volcanoes per Volcano Type in descending order?
+How many eruptions were in 2021 July YTD, and which were they?
+Which is the closest volcano to OR Tambo Airport in Johannesburg, South Africa?
+Which are the active volcanoes within 3000km radius of OR Tambo Airport in Johannesburg, South Africa?*
 
 ## Licensing, Authors, and Acknowledgements<a name="Licensing,-Authors,-and-Acknowledgements"></a>
-Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
+Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!https://thenounproject.com/term/volcano/1708/
+Volcano 
+By Joris Hoogendoorn, NL 
+Creative Commons
+Volcano by Joris Hoogendoorn from the Noun Project
