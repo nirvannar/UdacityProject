@@ -18,15 +18,6 @@ pip install -U datapane
 
 ## Project Motivation <a name="Project-Motivation"></a>
 For this project, I was interestested in using Smithsonian Institution data from the Global Volcanism Program entitled Volcanoes of the World 4.10.1, downloaded on 24 Jul 2021 at 11:16 AM	to use characteristcs of Holocene volcanoes for the purpose of Volcano tourism.  It will allow the traveller to use a combination of analyses to pick the locations for leisure travel purposes.  
-The .csv file was analysed using Jupyter Notebook.  It had 1398 rows of data and 4 columns of quantitative variables.  The total columns were 14 with 2 containing blanks.  The colums of data "Dominant Rock Type" and "Tectonic Setting" conatined blanks.  However these were not used to obtain results and are excluded from any analysis.  
-
-Data understanding – What data do we have / need? Is it clean?
-Data preparation – How do we organize the data for modeling?
-Modeling – What modeling techniques should we apply?
-Evaluation – Which model best meets the business objectives?
-Deployment – How do stakeholders access the results?
-
-
 
 **_The following questions were required to be answered from the data._**
  
@@ -40,9 +31,19 @@ Which are the active volcanoes within 3000km radius of OR Tambo Airport in Johan
 
 
 ## File Descriptions  <a name="File-Descriptions"></a>
+The notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
+The .csv file was analysed using a Jupyter Notebook.  It had 1398 rows of data and 4 columns of quantitative variables.  The total columns were 14 namely Volcano Number,	Volcano Name,	Country,	Primary Volcano Type,	Activity Evidence,	Last Known Eruption,	Region,	Subregion,	Latitude,	Longitude, 	Elevation (m),	Dominant Rock Type and	Tectonic Setting.   The columns of data "Dominant Rock Type" and "Tectonic Setting" contained blanks.  However these 2 columns were not used to obtain results and are excluded from any analysis.  
+
+Data understanding – What data do we have / need? Is it clean?
+Data preparation – How do we organize the data for modeling?
+Modeling – What modeling techniques should we apply?
+Evaluation – Which model best meets the business objectives?
+Deployment – How do stakeholders access the results?
+
+
 There is one notebook available here to showcase work related to the above questions. 
 
-The notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
+
 
 
 
