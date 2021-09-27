@@ -47,7 +47,7 @@ Seaborn pairplot and heatmap were used to check for any correlations between var
 There is one notebook available here to showcase work related to the above questions. 
 
 *Which is the highest Volcano in the world?  Ojos del Salado, Nevados in Chile, South America using df['Elevation (m)'].max()  
-Which country has the most volcanoes? USA using df['Country'].value_counts(normalise=True) to find percentages in descending order    
+Which country has the most volcanoes? USA using df['Country'].value_counts(normalise=True) to find percentages in descending order communicated via a wordcloud    
 Which region has the most volcanoes? South America using df['Country'].value_counts(normalise=True) to find percentages in descending order    
 What is the most common volcano type? Stratovolcano using df['Primary Volcano Type'].value_counts(normalise=True) to find percentages in descending order  
 Which year had the most eruptions until 2021 July YTD, and which were they?  2021 with 57 July YTD  
