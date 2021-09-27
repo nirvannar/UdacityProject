@@ -1,5 +1,5 @@
-# UdacityProject
-My first Udacity Project based on CRISP-DM
+# Intrepid Explosive Voyages
+My first Udacity Project based on CRISP-DM to assist volcano tourists to plan their travels.
 # Table of Contents
 
 * [Installation](#Installation)
